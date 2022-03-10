@@ -5,4 +5,6 @@ Resource for learning
 * First Principles of Computer Vision
   https://fpcv.cs.columbia.edu/
 
-* Liner Algibra
+## Mathematics
+* Introduction to Linear Algebra
+  https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
